@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Build/
+Builds/
+*.tgz
