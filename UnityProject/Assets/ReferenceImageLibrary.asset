@@ -27,3 +27,43 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: baliktarget
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4694333178198796129
+      m_GuidHigh: 17792984310832240009
+    m_SerializedTextureGuid:
+      m_GuidLow: 4324659707703596271
+      m_GuidHigh: 13330952522223509977
+    m_Size: {x: 0.1, y: 0.06671875}
+    m_SpecifySize: 1
+    m_Name: baliktarget2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5198161181677364144
+      m_GuidHigh: 11295859942605174149
+    m_SerializedTextureGuid:
+      m_GuidLow: 16209590346071623278
+      m_GuidHigh: 9766743364517018618
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: baliktarget3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4930536085324301407
+      m_GuidHigh: 17723903395190907530
+    m_SerializedTextureGuid:
+      m_GuidLow: 9143561593989293978
+      m_GuidHigh: 9480073247860905003
+    m_Size: {x: 0.1, y: 0.06666667}
+    m_SpecifySize: 1
+    m_Name: baliktarget4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5696238839521854778
+      m_GuidHigh: 7041939652382716346
+    m_SerializedTextureGuid:
+      m_GuidLow: 5238835903456853065
+      m_GuidHigh: 17716466104620284954
+    m_Size: {x: 0.1, y: 0.05882353}
+    m_SpecifySize: 1
+    m_Name: baliktarget5
+    m_Texture: {fileID: 0}
