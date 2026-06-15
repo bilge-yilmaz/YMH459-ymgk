@@ -1,0 +1,10 @@
+## Ekip Üyeleri
+
+Merve Aslan - 210541035
+Görev: Unity geliştirme, AR Foundation entegrasyonu, C# programlama
+
+Semra Ersoy - 220541103
+Görev: UI/UX tasarımı, 3B model entegrasyonu, sunum içerikleri
+
+Bilge Yılmaz - 220541031
+Görev: Test süreçleri, SWOT ve RAMS analizleri, dokümantasyon
