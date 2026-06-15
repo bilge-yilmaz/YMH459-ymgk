@@ -6,6 +6,13 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
 ![AR](https://img.shields.io/badge/AR-Foundation-blue?style=for-the-badge)
 
+## Ekip Üyeleri
+
+Merve Aslan - 210541035
+Semra Ersoy - 220541103
+Bilge Yılmaz - 220541031
+
+
 Fırat'ın Derinlikleri, artırılmış gerçeklik (AR) teknolojisi kullanılarak geliştirilmiş eğitici bir mobil uygulamadır. Kullanıcılar balık kartlarını kameraya tutarak Fırat Nehri'nde yaşayan balıkları keşfedebilir, su kirliliğinin etkilerini gözlemleyebilir ve balık yakalama mini oyunu oynayabilir.
 
 ---
